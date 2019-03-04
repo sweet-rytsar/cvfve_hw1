@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Homework 1 (Color-Transfer and Texture-Transfer)
 
 A clean and readable Pytorch implementation of CycleGAN (https://arxiv.org/abs/1703.10593)
@@ -75,3 +76,7 @@ Examples of the generated outputs (default params) apple2orange, summer2winter_y
 
 ## Acknowledgments
 Code is modified by [PyTorch-CycleGAN](https://github.com/aitorzip/PyTorch-CycleGAN). All credit goes to the authors of [CycleGAN](https://arxiv.org/abs/1703.10593), Zhu, Jun-Yan and Park, Taesung and Isola, Phillip and Efros, Alexei A.
+=======
+# cvfve_hw1
+homework1-color-transfer
+>>>>>>> ac3b5e8b0f43ab0125b6dabe321993271a7f2ed0
