@@ -100,11 +100,6 @@ ENV/
 # mypy
 .mypy_cache/
 
-# project directories
-datasets/*.*
-datasets/*/
-output/*
-!output/imgs
 
 ._README.md
 LICENSE
